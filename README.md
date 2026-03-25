@@ -1,3 +1,6 @@
+# Important Note
+This Repository is no longer maintained, as it acted as an intermediate code exchange during my master's thesis.
+
 # MOIST-Toolkit
 The "Merging Out-of-core Interfaced Slices of TetMeshes"-Project is a toolkit for incremental surface extraction, interfacing and merging of SubMeshes part of a larger mesh.
 
